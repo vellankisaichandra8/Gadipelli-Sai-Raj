@@ -1,0 +1,149 @@
+.main{
+  width: 1200px;
+  height: auto;
+  margin: auto;
+}
+.pic{
+  width: 1200px;
+  height: 162px;
+  margin: auto;
+}
+.content{
+  width: 800px;
+  height: 1500px;
+  background-color:#3b6978;
+  float: left;
+}
+#slider{
+  width: 400px;
+  height: 400px;
+  background-color: yellow;
+  float: left;
+}
+#slider1{
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  float: left;
+}
+.footer{
+  width: 1200px;
+  height: 162px;
+  background-color: #204051;
+  margin-top: 1500px
+}
+.sai{
+  width: 400px;
+  padding: 30px;
+  border-radius: 30px;
+}
+.h1{
+  font-size: 40px;
+  color: #cae8d5;
+}
+.designation{
+  color: #cae8d5;
+}
+.hedu{
+  padding: 30px;
+  color: #84a9ac;
+}
+.table1{
+  color: #cae8d5;
+  border-color: #84a9ac;
+  border-spacing: 30px;
+}
+.exp{
+  padding: 30px;
+  color: #84a9ac;
+}
+.exp1{
+  padding: 30px;
+  color:  #cae8d5;
+}
+.hobbies{
+  padding: 30px;
+  color: #84a9ac;
+}
+.hob1{
+  padding: 30px;
+  color:  #cae8d5;
+}
+.test{
+  padding: 30px;
+  color:  #cae8d5;
+  font-size: 20px;
+}
+.nav{
+  width: 1200px;
+  height: 30px;
+  background-color: #84a9ac;
+  margin: auto;
+}
+.div1{
+  width: 150px;
+  float: left;
+  margin-left: auto;
+  text-align: center;
+  padding-top: 4px;
+
+}
+.div2{
+  width: 150px;
+  float: left;
+  margin-left: auto;
+  padding-top: 4px;
+}
+.div3{
+  width: 150px;
+  float: left;
+  margin-left: auto;
+  padding-top: 4px;
+}
+.div4{
+  width: 150px;
+  float: left;
+  margin-left: auto;
+  padding-top: 4px;
+}
+a:link{
+  color: #cae8d5;
+  text-decoration: none;
+}
+a:hover{
+  color: #cae8d5;
+  text-decoration: none;
+}
+a:visited{
+  color: #cae8d5;
+  text-decoration: none;
+}
+.image{
+  width: 1200px
+}
+.maindiv{
+  width: 1200px;
+  margin: auto;
+}
+.headg{
+  width: 1200px;
+  height: 150px;
+  background-color: #84a9ac;
+}
+.galleryc{
+  width: 1200px;
+  height: auto;
+  background-color: #3b6978;
+}
+.tableg{
+  border: 1px;
+  border-color: #cae8d5;
+  border-spacing: 20px;
+}
+img{
+  width: 200px;
+}
+.image2{
+  width: 1200px;
+  height: 180px;
+}
